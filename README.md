@@ -1,8 +1,7 @@
 <span align='center'>
 
 # `PamTool Stealer Malware`
-
-<p align='center'><img src="[https://images.guns.lol/zs5AK.png" width=500](https://raw.githubusercontent.com/SEON1234e/PamTool-icn/main/embed_icon%20.png) /></p>
+<p align='center'><img src="https://raw.githubusercontent.com/SEON1234e/PamTool-icn/main/embed_icon%20.png" width=500 /></p>
 
 `Advanced RAT malware written in Python, fully controllable through Discord with dedicated GUI builder to make preparation easier.`
 
